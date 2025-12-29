@@ -4,10 +4,12 @@ body {
 
 h1 {
     color: white;
+    text-align: center;
 }
 
 p {
     color: white;
+    text-align: center;
 }
 a.button {
   display: inline-block;
@@ -17,4 +19,5 @@ a.button {
   text-decoration: none;
   border-radius: 6px;
   font-weight: bold;
+  text-align: center;
 }
